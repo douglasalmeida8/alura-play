@@ -1,0 +1,9 @@
+.superior__secao__container{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    /* barra de rolagem */
+    overflow: scroll;
+    /* espaçamento entre itens */
+    gap: 15px;
+}
